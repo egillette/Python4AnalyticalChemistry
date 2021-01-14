@@ -10,3 +10,9 @@ The modules present and associated input files are as follows:
 2. pH calculations
 * Module 2 Postlab calculations.ipynb
 * PythonLab #1 Calculating pH.ipynb
+3. Linear Regressions 
+*Graphing and Fitting Data in Python.ipynb
+*PythonLab #2 - Linear Regression and Error.ipynb
+*drylabdata.csv
+4. Standard Additions and Uncertainty Analysis
+*Module 4 Standard Addition.ipynb
