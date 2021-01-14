@@ -9,3 +9,4 @@ The modules present and associated input files are as follows:
   * Lab1olderData.csv
 2. pH calculations
 * Module 2 Postlab calculations.ipynb
+* PythonLab #1 Calculating pH.ipynb
