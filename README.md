@@ -16,3 +16,7 @@ The modules present and associated input files are as follows:
 * drylabdata.csv
 4. Standard Additions and Uncertainty Analysis
 * Module 4 Standard Addition.ipynb
+5. Method Optimization
+* Module 5 HPLC retention modeling Fall 2020.ipynb
+* HPLCphiData2.csv
+* <b> pull older files here </b>
