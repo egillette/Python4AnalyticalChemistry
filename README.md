@@ -20,3 +20,6 @@ The modules present and associated input files are as follows:
 * Module 5 HPLC retention modeling Fall 2020.ipynb
 * HPLCphiData2.csv
 * <b> pull older files here </b>
+
+These notebooks can be accessed using Binder by clicking the blue badge below
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/egillette/Python4AnalyticalChemistry/HEAD)
