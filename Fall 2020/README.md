@@ -1,7 +1,5 @@
 This is the folder for the fall 2020 materials. Fall 2020 was taught entirely remotely and therefore contains some more involved coding projects, compared to the courses which were in person and involved more laboratory work.
-Included in this folder are
 
-*move to a fall 2020 folder*
 The modules present and associated input files are as follows:
 1. Statistical Data Processing (two files)
   * Exp. 1 Statistical Data Processing-Fa2020.ipynb
@@ -19,3 +17,5 @@ The modules present and associated input files are as follows:
 * Module 5 HPLC retention modeling Fall 2020.ipynb
 * HPLCphiData2.csv
 * <b> pending - add lab handout files </b>
+
+
