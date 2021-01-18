@@ -1,8 +1,8 @@
+name: example-environment
+channels:
+  - conda-forge
 dependencies:
-  - python>=3.7
-  - pandas
+  - numpy
   - matplotlib
   - scipy
-  - jupyter
-  - nbformat
-  - math
+  
