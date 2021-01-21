@@ -1,4 +1,4 @@
-Fall 2019 Analytical Chemistry was taught in person.
+Fall 2019 Analytical Chemistry was taught in person. This is a somehwat more minimalist approach, incorporating only the first three modules using Python.
 The following documents and assignments from this semester are included:
 * Intro: Simple intro to Jupyter notebooks mechanics
 Introduction to Jupyter Notebooks - FA19.ipynb
