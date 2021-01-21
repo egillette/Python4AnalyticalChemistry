@@ -1,8 +1,19 @@
-Fall 2019 Analytical Chemistry was taught in person, as normal. 
+Fall 2019 Analytical Chemistry was taught in person.
 The following documents and assignments from this semester are included:
-* Mod 1
-* Mod 2
+* Intro: Simple intro to Jupyter notebooks mechanics
+* Module 1: 
+Experiment 1 - Density 
+Module 1 data processing.ipynb
+Experiment 3 - Titrations and Indicators
+Module 1 F and T tests_exp 3 postlab.ipynb
+* Module 2:
+Experiment 2: Acid-Base and Buffers
+Module 2 -2B postlab-Manipulating Titration data.ipynb
+Dy Lab #1
+Module 2 - Python Lab #1.ipynb
 * Mod 3
+Module 3 - Python Lab #2.ipynb
+
 * syllabus/calender 
-* whatever else
+
 
