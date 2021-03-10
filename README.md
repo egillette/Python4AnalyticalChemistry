@@ -11,18 +11,12 @@ Here you will find three interations of our modular integration of Python into o
 
 <b>Module 2.</b> Equilbrium: pH & acid-base concepts/calcs, titration curves
 
-<b>Module 3.</b> Linear Regressions
+<b>Module 3.</b> Linear Regressions, Standard Addition & Uncertainty Analysis (error propogation)
 
-<b>Module 4.</b> Standard Addition & Uncertainty Analysis (error propogation)
-
-<b>Module 5.</b> Method optimization
+<b>Module 4.</b> Method optimization
 
 
 There are often more that one assignment per module, and different iterations of the course contain different laboratory excersises that alight with each quantitative topic. Laboratory handouts which go along with each assignment are also available, for your information.
-
-
-
-
 
 
 These notebooks can be accessed using Binder by clicking the blue badge below
