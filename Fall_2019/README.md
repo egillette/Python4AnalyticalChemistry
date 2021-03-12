@@ -8,7 +8,7 @@ Intro: Simple intro to Jupyter notebooks mechanics
 Module 1: Basic Statistics
 Experiment 1 - Density 
 * Module 1 data processing.ipynb 
-Experiment 3 - Titrations and Indicators 
+* Experiment 3 - Titrations and Indicators 
 * Module 1 F and T tests_exp 3 postlab.ipynb 
 * Exp3_Statistics_Indicators_Fa19.pdf
 
