@@ -16,7 +16,7 @@ Here you will find three interations of our modular integration of Python into o
 <b>Module 4.</b> Method optimization
 
 
-There are often more that one assignment per module, and different iterations of the course contain different laboratory excersises that alight with each quantitative topic. Laboratory handouts which go along with each assignment are also available, for your information.
+There may be more than one assignment per module, and different iterations of the course contain different laboratory excersises that align with each quantitative topic. Laboratory handouts which go along with each assignment are also available, for your information. Syllabi and course schedules are also included to provide context.
 
 
 These notebooks can be accessed using Binder by clicking the blue badge below
