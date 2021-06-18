@@ -1,0 +1,5 @@
+Problem 11-B (Excerpt from Harris, D. C. (2020). Quantitative chemical analysis. New York, NY: W.H. Freeman and Co.)
+
+* Calculate the pH at each point listed for th etitration of 50.0 mL of 0.0500 M formic acid with 0.0500 M KOH. The points to calculate are
+	Vb = 0.0, 10.0, 20.0, 25.0, 30.0, 40.0, 45.0, 48.0, 49.0, 49.5, 50.0, 50.5, 51.0, 52.0, 55.0, and 60.0 mL
+* Sketch a graph of pH vs. Vb. 
